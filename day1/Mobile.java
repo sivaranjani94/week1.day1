@@ -5,11 +5,11 @@ public class Mobile {
 	int tmobileWeight = 50;
 	boolean isFullCharge = true;
 	double mobileCost = 15000.50;
-private void makeCall() {
+public void makeCall() {
 System.out.println("please makeCall");
 
 }
-private void sendMsg() {
+public void sendMsg() {
 System.out.println("please SendMSG");
 
 }
